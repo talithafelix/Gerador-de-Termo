@@ -60,6 +60,6 @@ Caso outra equipe ou empresa deseje utilizar o código, basta modificar o modelo
 
 ## Possíveis Melhorias Futuras
 
-- [ ] Transformar os campos de **Modelo do Laptop** e **Modelo da Dockstation** em listas selecionáveis baseadas em opções pré-definidas.
+- [x] Transformar os campos de **Modelo do Laptop** e **Modelo da Dockstation** em listas selecionáveis baseadas em opções pré-definidas.
 - [ ] Permitir o cadastro, edição e exclusão de novos modelos diretamente pela interface do aplicativo.
-- [ ] Criar um histórico local de todos os termos já gerados, possibilitando consulta e reimpressão.
+- [x] Criar um histórico local de todos os termos já gerados, possibilitando consulta e reimpressão.
