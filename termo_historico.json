@@ -1,0 +1,24 @@
+{
+  "termos": [
+    {
+      "id": 1,
+      "data": "2026-03-28 17:53:15",
+      "modelo_l": "Lenovo",
+      "serial_l": "4465",
+      "modelo_d": "Lenovo",
+      "serial_d": "898",
+      "nome": "Teste 1 ",
+      "mochila": "(  X  )"
+    },
+    {
+      "id": 2,
+      "data": "2026-03-28 17:53:42",
+      "modelo_l": "Lenovo",
+      "serial_l": "777",
+      "modelo_d": "Lenovo",
+      "serial_d": "898",
+      "nome": "Teste 1 ",
+      "mochila": "(  X  )"
+    }
+  ]
+}
